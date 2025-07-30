@@ -305,3 +305,9 @@ credentials.json
 # paper/drafts/
 # data/private/
 # experiments/failed/
+
+
+
+# EXCEPTION: allow raw data CSVs in this specific folder
+!Database/RawData/students.csv
+
