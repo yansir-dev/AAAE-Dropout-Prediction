@@ -106,4 +106,10 @@ This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) 
 
 ## 🤝 Contact
 
-For questions, feedback, or collaboration inquiries, please reach out to:  [yaoyuzhuo6@gmial.com]&[yansihan6636@gmail.com]
+This project is maintained by:
+
+- **Author** – yaoyuzhuo6@gmail.com  
+- **Author** – yansihan6636@gmail.com  
+
+For questions, feedback, or collaboration inquiries, feel free to reach out.
+
